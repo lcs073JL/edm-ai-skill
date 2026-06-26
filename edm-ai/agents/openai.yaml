@@ -1,0 +1,4 @@
+interface:
+  display_name: "EDM AI"
+  short_description: "Export sliced Illustrator EDMs to responsive HTML"
+  default_prompt: "Use $edm-ai to process the current Illustrator EDM into 2x JPEG slices and responsive email HTML."
